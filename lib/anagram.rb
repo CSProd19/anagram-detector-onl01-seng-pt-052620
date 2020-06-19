@@ -5,9 +5,6 @@ class Anagram
     @word = word
   end 
   
-  def match(array)
-    array.each do |new_word|
-    end 
-  end 
+   
   
 end 
