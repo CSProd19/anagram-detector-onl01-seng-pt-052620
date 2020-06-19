@@ -6,7 +6,8 @@ class Anagram
   end 
   
   def match(array)
-    array.collect 
+    array.collect do |word|
+    end 
   end 
   
 end 
